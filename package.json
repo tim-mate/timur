@@ -1,0 +1,23 @@
+{
+  "name": "timur",
+  "version": "1.0.0",
+  "description": "The tool for building custom, easily scaling FullStack applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-mate/timur.git"
+  },
+  "keywords": [
+    "deep",
+    "learning"
+  ],
+  "author": "Code&Cakes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-mate/timur/issues"
+  },
+  "homepage": "https://github.com/tim-mate/timur#readme"
+}
